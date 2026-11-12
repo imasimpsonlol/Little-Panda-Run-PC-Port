@@ -1,2 +1,4 @@
 # Little-Panda-Run-PC-Port
-This is a port for the BabyBus game Little Panda Run. DISCLAIMER: This game is NOT affiliated with Babybus. This is an entirely non-profit preservation project for the game.
+Hello everyone! This is a Windows port of the fotgotten game Little Panda Run by Babybus.
+# DISCLAIMER.
+This game is NOT affiliated with Babybus or its subsidiaries. Kiki the Panda, all of the 3D models of the game, assets, etc are owned by BabyBus. This is a NON-PROFIT preservation project. Also, this is vibe coded.
